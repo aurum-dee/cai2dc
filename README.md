@@ -10,4 +10,5 @@ Simple connection between unofficial Discord and Character AI APIs. which allows
 # Experimental Features(optional)
 
 There is a simple natural voice tts which can be used to make the character read its response. To use it you need to install ffmpeg in C:\ffmpeg
+
 Installation guide(ffmpeg): https://github.com/BtbN/FFmpeg-Builds/releases 
