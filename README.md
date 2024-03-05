@@ -7,15 +7,16 @@ Simple connection between unofficial Discord and Character AI APIs. which allows
 2. ChracterAi API key: https://github.com/RichardDorian/node-character.ai?tab=readme-ov-file#access-token
 3. Character ID: https://github.com/RichardDorian/node-character.ai?tab=readme-ov-file#character-id
 
-# Required Packages 
+# Packages 
 Install using npm or your preferred method
+
 Required Packages- 
-> discord-user-bots
-> node_characterai
++ discord-user-bots
++ node_characterai
 
 Optional Packages- 
-> node-edge-tts
-> child_process
++ node-edge-tts
++ child_process
 
 # Experimental Features(optional)
 
